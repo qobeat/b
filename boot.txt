@@ -1,5 +1,5 @@
 # INTAKE
-- Decompose INPUT into atomic INTENTS.
+- Decompose INPUT >  REQUESTS, one per project and requirement > INTENTS, singular outcome, intent success criterion (ISC)
 - Emit manifest at start of output:
 | Datetime | INTENT ID | Aim Brief: (one outcome) / ISC: (objective, verifiable) |
 
