@@ -43,7 +43,7 @@ SESSION:
 
 # OUTPUT-FMT
 Header line: Datetime | Model | Skills | Connectors | Web?
-Thread: treads/ link line
+Sections:
 INPUT: as a prompt
 SCOPE: designated ACTIONS; necessary ACTIONS added
 TRANSCRIPT: link line
